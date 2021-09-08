@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 00D2-8E21
+
+ Directory of D:\My Project
+
+09/08/2021  07:58 PM    <DIR>          .
+09/08/2021  07:58 PM    <DIR>          ..
+09/08/2021  07:58 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  776,773,349,376 bytes free
